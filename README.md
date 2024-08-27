@@ -14,7 +14,6 @@ B) Update your PATH
 C) flutter run
 
 #Python Installation
-
 What is the first step to install Python on a Windows system?
 B) Download Python from the official website
 
